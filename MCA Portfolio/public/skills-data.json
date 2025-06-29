@@ -1,0 +1,11 @@
+[
+    { "skill": "Python", "level": 8 },
+    { "skill": "JavaScript", "level": 8 },
+    { "skill": "C#/ .NET", "level": 7 },
+    { "skill": "SQL", "level": 7 },
+    { "skill": "Next.js", "level": 6 },
+    { "skill": "React", "level": 7 },
+    { "skill": "Node.js", "level": 6 },
+    { "skill": "Tailwind CSS", "level": 8 }
+  ]
+  
